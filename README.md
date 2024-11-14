@@ -1,8 +1,16 @@
-# Ex-1 UML Diagrams for ATM & Banking Systems :
+# EX NO:- 1 - ATM AND BANKING SYSTEM
 ## NAME:NIKESHKUMAR C
 ## REG NO:212223040132
 ## Aim :
-To create UML Diagrams for ATM & Banking systems using StarUML.
+To Develop the ATM and Banking System using Star UML tool.
+# PROBLEM STATEMENT
+The purpose of a case study review is to provide an in-depth analysis of a specific book, film, or other media, offering critical insights that enhance the reader's understanding of the work. It serves to comprehensively examine the elements such as themes, characters, and narrative structure, enabling readers to grasp the complexities and nuances of the material. By situating the work within its broader cultural or historical context, the review helps to highlight its relevance and significance, allowing readers to interpret the author’s intentions more effectively. 
+ 
+# SOFTWARE REQUIREMENTS:
+Rational Rose,
+SQL 8.0
+# HARDWARE REQUIREMENTS:
+512MB RAM2, PENTIUM III PROCESSOR.
 
 ## Use Case Diagram :
 ![image](https://github.com/user-attachments/assets/06643a94-59ed-4143-b597-3850e8d95687)
@@ -27,5 +35,6 @@ To create UML Diagrams for ATM & Banking systems using StarUML.
 ## Package Diagram:
 ![image](https://github.com/user-attachments/assets/d87e07bb-4210-4a20-a6b9-1979c87e0bd2)
 
-## Conclusion : 
-The UML Diagrams for ATM & Banking Systems have been successfully created and implemented using StarUML.
+# Result:
+ 
+Thus the project to develop ATM and Banking System was developed using Star UML software.
